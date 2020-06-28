@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>left_menu.qml</file>
+    </qresource>
+</RCC>
